@@ -39,4 +39,5 @@ git clone https://github.com/Jayanth-0407/RAG-based-smart-TV-assistant
 cd RAG-based-smart-TV-assistant
 
 ***To run the application***
+
 python app.py  
