@@ -2,7 +2,7 @@
 
 An AI-powered chatbot application that provides instant, accurate answers directly from official Samsung Smart TV manuals. This project leverages Retrieval-Augmented Generation (RAG) to search through thousands of manual pages (covering Tizen OS, Smart Hub, QLED, Neo QLED, and The Frame) and deliver precise contextual answers.
 
-<img width="495" height="599" alt="Screenshot 2026-02-24 164900" src="https://github.com/user-attachments/assets/cbfd0ae8-efdb-46f5-ad30-a8a1127486af" /> <img width="479" height="589" alt="image" src="https://github.com/user-attachments/assets/81314ec1-8ffb-4640-b350-876c8130dc66" />
+<img width="495" height="899" alt="Screenshot 2026-02-24 164900" src="https://github.com/user-attachments/assets/cbfd0ae8-efdb-46f5-ad30-a8a1127486af" /> <img width="459" height="589" alt="image" src="https://github.com/user-attachments/assets/81314ec1-8ffb-4640-b350-876c8130dc66" />
 
 
 
